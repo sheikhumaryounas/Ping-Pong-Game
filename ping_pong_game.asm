@@ -473,7 +473,7 @@ P1score: dw 0
 P2score: dw 0
 WinText: db 'won the game', 0
 game_tie: db 'The match has been tied', 0
-msg: db 'Haisam Lodhi & Umar Younas', 0
+msg: db 'Umar Younas', 0
 P1: db '               ', 0
 P2: db '               ', 0
 PT1: db 'Enter the name of player1:', 0
