@@ -32,5 +32,5 @@ nasm -f bin pong.asm -o pong.com
 Open with DOSBox:
 dosbox pong.com
 
-👨‍💻 Authors
+👨‍💻 Author
 Umar Younas
